@@ -1,0 +1,7 @@
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\bin\Debug\Buoi1_b3.exe.config
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\bin\Debug\Buoi1_b3.exe
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\bin\Debug\Buoi1_b3.pdb
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\obj\Debug\Buoi1_b3.csproj.AssemblyReference.cache
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\obj\Debug\Buoi1_b3.csproj.CoreCompileInputs.cache
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\obj\Debug\Buoi1_b3.exe
+D:\Lap_trinh(IT)\C#\VuMinhHieu_2121110257\Buoi1_b3\obj\Debug\Buoi1_b3.pdb
