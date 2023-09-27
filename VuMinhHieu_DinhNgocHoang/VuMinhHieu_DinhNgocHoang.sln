@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_01", "Buoi2_01\Buoi2_01.csproj", "{43FF7B07-1267-4AFC-BC33-AE3DA9C8AB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_02", "Buoi2_02\Buoi2_02.csproj", "{90076DE2-D6D9-4FC3-A9BD-A5B205E83CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_bai03", "Buoi2_bai03\Buoi2_bai03.csproj", "{3BF8E243-57B8-40F5-9A3B-DE1169A06068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FF7B07-1267-4AFC-BC33-AE3DA9C8AB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FF7B07-1267-4AFC-BC33-AE3DA9C8AB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FF7B07-1267-4AFC-BC33-AE3DA9C8AB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FF7B07-1267-4AFC-BC33-AE3DA9C8AB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90076DE2-D6D9-4FC3-A9BD-A5B205E83CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90076DE2-D6D9-4FC3-A9BD-A5B205E83CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90076DE2-D6D9-4FC3-A9BD-A5B205E83CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90076DE2-D6D9-4FC3-A9BD-A5B205E83CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF8E243-57B8-40F5-9A3B-DE1169A06068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF8E243-57B8-40F5-9A3B-DE1169A06068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF8E243-57B8-40F5-9A3B-DE1169A06068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF8E243-57B8-40F5-9A3B-DE1169A06068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0F0013-EA73-471D-8232-9AB7DB30F365}
+	EndGlobalSection
+EndGlobal
