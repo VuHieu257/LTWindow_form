@@ -1,0 +1,10 @@
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\bin\Debug\B4_02.exe.config
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\bin\Debug\B4_02.exe
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\bin\Debug\B4_02.pdb
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.csproj.AssemblyReference.cache
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.Form1.resources
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.Properties.Resources.resources
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.csproj.GenerateResource.cache
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.csproj.CoreCompileInputs.cache
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.exe
+D:\Lap_trinh(IT)\C#\VuMinhHieu_winform\B4_02\obj\Debug\B4_02.pdb
